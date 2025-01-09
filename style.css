@@ -908,6 +908,9 @@ img {
 
 /* Footer starts */
 
+.footer_logo_pic {
+   padding: 119px 0;
+}
 .footer {
   background: #0E1D28;
   padding: 119px 0;
